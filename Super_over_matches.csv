@@ -1,0 +1,15 @@
+,match_id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs,target_overs,super_over,umpire1,umpire2
+66,392190,2009,Cape Town,2009-04-23,League,YK Pathan,Newlands,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,,151.0,20.0,Y,MR Benson,M Erasmus
+130,419121,2009/10,Chennai,2010-03-21,League,J Theron,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,tie,,137.0,20.0,Y,K Hariharan,DJ Harper
+328,598004,2013,Hyderabad,2013-04-07,League,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,tie,,131.0,20.0,Y,AK Chaudhary,S Ravi
+342,598017,2013,Bangalore,2013-04-16,League,V Kohli,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Royal Challengers Bangalore,tie,,153.0,20.0,Y,M Erasmus,VA Kulkarni
+416,729315,2014,Abu Dhabi,2014-04-29,League,JP Faulkner,Sheikh Zayed Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,,153.0,20.0,Y,Aleem Dar,AK Chaudhary
+475,829741,2015,Ahmedabad,2015-04-21,League,SE Marsh,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,tie,,192.0,20.0,Y,M Erasmus,S Ravi
+610,1082625,2017,Rajkot,2017-04-29,League,KH Pandya,Saurashtra Cricket Association Stadium,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,tie,,154.0,20.0,Y,AK Chaudhary,CB Gaffaney
+705,1175365,2019,Delhi,2019-03-30,League,PP Shaw,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,tie,,186.0,20.0,Y,AY Dandekar,Nitin Menon
+746,1178426,2019,Mumbai,2019-05-02,League,JJ Bumrah,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,tie,,163.0,20.0,Y,CK Nandan,S Ravi
+757,1216493,2020/21,Dubai,2020-09-20,League,MP Stoinis,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,tie,,158.0,20.0,Y,AK Chaudhary,Nitin Menon
+765,1216547,2020/21,Dubai,2020-09-28,League,AB de Villiers,Dubai International Cricket Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,tie,,202.0,20.0,Y,Nitin Menon,PR Reiffel
+790,1216512,2020/21,Abu Dhabi,2020-10-18,League,LH Ferguson,Sheikh Zayed Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,tie,,164.0,20.0,Y,PG Pathak,S Ravi
+791,1216517,2020/21,Dubai,2020-10-18,League,KL Rahul,Dubai International Cricket Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,tie,,177.0,20.0,Y,Nitin Menon,PR Reiffel
+835,1254077,2021,Chennai,2021-04-25,League,PP Shaw,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,tie,,160.0,20.0,Y,CB Gaffaney,KN Ananthapadmanabhan

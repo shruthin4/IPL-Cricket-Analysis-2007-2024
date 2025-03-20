@@ -1,0 +1,53 @@
+From the Deliveries Dataset
+Individual Metrics:
+
+Highest Wicket Taker: Who is the leading wicket-taker in the dataset?
+Highest Scorer in a Match: Who scored the most runs in a single match?
+Total Runs Scored by Each Batter: How many runs has each batter scored overall?
+Number of Balls Faced by Each Batter: How many balls did each batter face in total?
+Most Fours and Sixes: Who hit the most fours and sixes?
+Top Bowlers by Number of Balls Bowled: Which bowlers have bowled the most balls?
+Most Extras by Bowlers: Which bowlers have given the most extras?
+Dismissals and Extras:
+
+Types of Dismissals: What are the most common types of dismissals?
+Number of Catches, Bowleds, LBWs: How many catches, bowleds, and LBWs occurred in total?
+
+From the Matches Dataset
+Match Outcomes and Teams:
+
+Team with Most Wins: Which team has won the most matches?
+Match Outcomes by Venue: What is the win/loss ratio for each venue?
+Season-wise Winning Teams: Which team won the most matches in each season?
+Highest and Lowest Team Scores: What are the highest and lowest scores by each team?
+Toss and Results:
+
+Toss Winner vs Match Winner: How often does the toss winner also win the match?
+Impact of Toss Decision on Match Outcome: How does the toss decision (bat first or bowl first) impact the match outcome?
+Player and Umpire Analysis:
+
+Player of the Match: Who has been named Player of the Match most frequently?
+Umpires in No-Result Matches: Which umpires officiated the most no-result matches?
+
+
+From Merging Both Datasets
+Comprehensive Match Analysis:
+
+Highest Score per Season: What is the highest score achieved in each season? (Requires merging to get season data for each match)
+Overall Batting and Bowling Performance: How do individual player performances in batting and bowling contribute to the match outcomes?
+
+Performance Correlation:
+
+Impact of Venue on Performance: How do different venues impact player performance (e.g., highest scores, most wickets)?
+Team Performance in Different Seasons: How does a team's performance vary across different seasons?
+Detailed Match Insights:
+
+Detailed Match Outcomes: For a given match, what were the key performances (highest runs, most wickets, etc.) and how did they impact the outcome? (Requires merging to link delivery data with match results)
+
+Analysis of No-Result Matches: What are the characteristics of matches that ended with no result (e.g., venue, teams, umpires)?
+
+Visualizing Trends:
+
+Seasonal Trends in Scores and Wickets: How have scoring trends and wicket-taking changed over seasons? (Requires merging to aggregate scores and wickets by season)
+
+Team Performance Across Venues: How does a team's performance in terms of scoring and wicket-taking vary across different venues?
