@@ -55,7 +55,7 @@ We focus on uncovering player & team performances, venue insights, and match out
 
 ## 🛠️ Technologies Used:
 - Python (pandas, numpy, matplotlib, seaborn)
-- Jupyter Notebook
+- Jupyter Notebook, VS Code , Google Colab
 - Data cleaning & exploratory data analysis (EDA)
 - Data visualization best practices
 
